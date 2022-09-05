@@ -1,1 +1,1 @@
-![alt text](https://github.com/sasasnzare/personal-template/img/main/README.png?raw=true)
+![alt text](https://github.com/sasanzare/personal-template/blob/main/img/README.png)
